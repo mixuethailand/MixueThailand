@@ -91,7 +91,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/tvone720/manifest.mpd|user-agent=
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd|user-agent=ExoPlayerDemo/4.0 (Linux;Android 14) ExoPlayerLib/2.11.4
 
-#EXTINF:-1 tvg-id="Mentari.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV
+#EXTINF:-1 tvg-id="Mentari.TV.id" group-title="National TV" ch-number="15" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
